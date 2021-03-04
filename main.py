@@ -1,7 +1,6 @@
 import math
 #Definitionen
 
-msgDlg ("Bitte Achten Sie darauf, dass sie die Deutsch Kommas als Punkte schreiben!")
 Rs = input ("Wie groß ist der Radius des Sterns den Sie beobachten?") #Sternradius - Literatur
 F = math.sqrt(input ("Wie groß ist Ihre gemessene Transittiefe?"))#Wurzel aus Transittiefe - Lichtkurve
 G = 6.673*10**-11 #Gravitationskonstante - Literatur
